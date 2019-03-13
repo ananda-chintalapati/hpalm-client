@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity Type="test-set-folder">
+	<Fields>
+		<Field Name="name">
+			<Value>MatildaChild1</Value>
+		</Field>
+		<Field Name="hierarchical-path">
+			<Value>AAAAAF</Value>
+		</Field>
+	</Fields>
+</Entity>
+
